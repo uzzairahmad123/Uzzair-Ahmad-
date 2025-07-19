@@ -68,16 +68,6 @@ A consistent and professional portfolio site to showcase skills, experience, and
 
 ---
 
-### 🎉 Fun GIFs
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LNk0K3Qn7jV4t4yL3k/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/du3J3GxXyFXWg/giphy.gif" width="60" />
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="80"/>
-</div>
-
----
-
 ### 👀 Visitor Count
 
 <p align="center">
